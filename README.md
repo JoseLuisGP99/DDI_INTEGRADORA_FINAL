@@ -14,7 +14,7 @@
 ### Historial de Versiones
 | Fecha  | Versión  | Autor  | Organización  |Descripción   |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 18/08/2023  |1.0| Jose Luis Galindo Picazo  | |  PROYECT ONE  | | Entrega Final  |   
+| 18/08/2023  |1.0| Jose Luis Galindo Picazo  |   PROYECT ONE  |Entrega Final  |   
 
 &nbsp;
 ### Responsables
