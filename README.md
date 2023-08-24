@@ -14,13 +14,13 @@
 ### Historial de Versiones
 | Fecha  | Versión  | Autor  | Organización  |Descripción   |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| 18/08/2023  |1.0| Jose Luis Galindo Picazo  | | Proyecto   |  TRAINER ONE  | | Entrega Final  |   
+| 18/08/2023  |1.0| Jose Luis Galindo Picazo  | | Proyecto   |  PROYECT ONE  | | Entrega Final  |   
 
 &nbsp;
 ### Responsables
 | Nombre y Apellido  | Cargo  | Departamento u Organización  | Fecha  |Firma   |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
-| Jose Luis Galindo Picazo  |  Líder de proyecto | TRAINER ONE | 18/08/2023  |  Entregado |
+| Jose Luis Galindo Picazo  |  Líder de proyecto | PROYECT ONE | 18/08/2023  |  Entregado |
 
 &nbsp;
 ### Proposito
@@ -28,7 +28,8 @@ TRAINER ONE
 <p align="justify"> 
 Realizar una aplicación que permita a los usuarios tener rutinas de entrenamiento adecuadas que no tengan experiencias previas, para mejorar su condición física.
 &nbsp;
-### Alcance del producto / Software
+ 
+ ### Alcance del producto / Software
 <p align="justify"> 
 Lograr que la aplicación pueda mostrar interfaces entendibles al usuario, tener botones funcionales que permitan hacer selección a las necesidades del usuario. Lograr que la aplicación arroje rutinas dependiendo el área que se escoja.
 
