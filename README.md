@@ -1,7 +1,7 @@
 # TRAINER ONE
 &nbsp;
 ### Información del Proyecto
-| Empresa / Organización   |  AMDL SOFTWARE & TECNOLOGY |
+| Empresa / Organización   |  TRAINER ONE |
 | ------------ | ------------ |
 | Proyecto   |  TRAINER ONE  |
 | Fecha de preparación  | 27/06/2023  |
